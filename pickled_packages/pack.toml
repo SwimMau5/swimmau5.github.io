@@ -1,12 +1,12 @@
 name = "Pickled Packages"
 author = "SwimMau5"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7505a8c64dfa29f547f0a4fc99852e4d4d5f293e6ad823698d9b550ff6fee28"
+hash = "d1db6a6c2d5208d1a8545e6819c0a94f31da3e693f44891bc8f82208f4a921df"
 
 [versions]
 minecraft = "1.21.1"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "33db1cc3d242d0cfee92475c97eb829a038e7261af10de2fdd2e3b7c9b6f7f8c"
+hash = "ff5cc47a16f3d7bc409b33b2dd8e406898cee7c4e8fb455b06f73cb18aa071cf"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "3010b495fe348272f66e11617aefd064372979efc6c295502feeb8ecc7fcd3fb"
+hash = "79e19349dcdea3b4e2425974f58afcac5103f65f8e4abd7cecacc1bd37f78cb0"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "b3e1e88fae7462809ceaef7394e36c01bf422bbd939aa7393fa4f3a9cd5b0fe6"
+hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
 metafile = true
 
 [[files]]
