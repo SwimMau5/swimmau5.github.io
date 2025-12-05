@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7f1cbb01971cecfc92d94d9fb86940b051c71412de79bfb6ab4c704e0c60571a"
+hash = "9be42e4efccbca321b8d36ee723a16ada9df7493aa91a672f3eaa3f1adc5b02d"
 
 [[files]]
 file = "mods/amendments.pw.toml"
