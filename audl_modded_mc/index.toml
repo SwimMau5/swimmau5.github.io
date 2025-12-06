@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9be42e4efccbca321b8d36ee723a16ada9df7493aa91a672f3eaa3f1adc5b02d"
+hash = "e890b32cafb134d6fb93ad438af6c6cf0832260d44e442d5b99070b825243343"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "8cf01f6d1f171b3538c911f9988f9a6e0fe3356aa50ff52f11057c7d8f7e7955"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -67,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
@@ -165,8 +174,13 @@ hash = "272fceb1b50c7a2e18baf49cdb5da234e7fdf87276b4b8e960ce7f05f7d45258"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
-hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
 
 [[files]]
